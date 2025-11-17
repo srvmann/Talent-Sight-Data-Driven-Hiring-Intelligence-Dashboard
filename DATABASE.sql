@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM jobs_data.skills_job_dim2;
