@@ -125,7 +125,7 @@ Both sources merged into a **single master fact table** with schema:
 ## 📈 Dashboard Preview
 
 > *(Word cloud removed to maintain performance and layout clarity)*
-> *(Dashboard--)*
+> *(Dashboard-- https://github.com/srvmann/Talent-Sight-Data-Driven-Hiring-Intelligence-Dashboard/blob/main/Dashboard-2.png)*
 
 Dashboard Contains:
 
